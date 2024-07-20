@@ -1,3 +1,4 @@
 # Learning-React
 My first experience with React
-2 tutorials from [https://react.dev/learn](React official site)
+
+2 tutorials from [React official site](https://react.dev/learn)
