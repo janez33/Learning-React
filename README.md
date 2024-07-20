@@ -5,3 +5,4 @@ My first experience with React
 
 From CodeSandbox.io:
 - [Tic-Tac-Toe game](https://codesandbox.io/s/react-dev-forked-rjrvw4)
+- [Filterable Product Table](https://codesandbox.io/s/react-dev-forked-kpv8c8)
